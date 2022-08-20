@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "@/": "./src/",
+    "grammy": "https://deno.land/x/grammy@v1.10.1/mod.ts",
+    "http/server": "https://deno.land/std@0.152.0/http/server.ts",
+    "dotenv/load": "https://deno.land/std@0.152.0/dotenv/load.ts"
+  }
+}
